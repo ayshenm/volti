@@ -6,7 +6,7 @@ Volti is fully responsive bike renting website, <br /> The website is available 
 
 <br>
 
-<a href=""><strong> 📺 Live</strong></a>
+<a href="volti-seven.vercel.app"><strong> 📺 Live</strong></a>
 
 </div>
 
