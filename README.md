@@ -92,7 +92,7 @@ This project is licensed by [MIT](https://choosealicense.com/licenses/mit/) and 
 
 ### ☑ Creators
 
-The project got prepared by collaborative actions of [Sahil](https://github.com/salahlisahil) , [Aleksey](https://github.com/alexop89056), and [Aishan](https://github.com/ayshenm)
+The project got prepared by collaborative actions of [Sahil](https://github.com/salahlisahil) , [Aleksey](https://github.com/alexop89056), and [Aisha](https://github.com/ayshenm)
 
 <br>
 
